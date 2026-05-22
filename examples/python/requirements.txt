@@ -1,0 +1,41 @@
+# BlueEagle AI Gateway Examples
+
+蓝鹰AI网关官方示例代码仓库
+
+## 📦 安装依赖
+
+```bash
+# Node.js
+npm install
+
+# Python
+pip install openai anthropic
+```
+
+## 🔑 配置API Key
+
+```bash
+# Linux/Mac
+export BLUEEAGLE_API_KEY="your-api-key-here"
+
+# Windows
+set BLUEEAGLE_API_KEY=your-api-key-here
+```
+
+## 🚀 快速运行
+
+```bash
+# Python示例
+python examples/python/basic_chat.py
+
+# Node.js示例
+node examples/nodejs/basic.js
+
+# cURL示例
+bash examples/curl/gpt-4o.sh
+```
+
+## 📚 获取帮助
+
+- 🌐 官网: https://ahg.codes
+- 📧 联系: contact@ahg.codes

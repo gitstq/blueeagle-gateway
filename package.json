@@ -1,0 +1,25 @@
+{
+  "name": "blueeagle-gateway-examples",
+  "version": "1.0.0",
+  "description": "BlueEagle AI Gateway - Examples for OpenAI, Claude, and other AI model integrations",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Run: bash examples/curl/gpt-4o.sh\""
+  },
+  "keywords": [
+    "ai-gateway",
+    "openai",
+    "claude",
+    "gemini",
+    "api-proxy",
+    "chatgpt",
+    "llm",
+    "artificial-intelligence"
+  ],
+  "author": "BlueEagle AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "anthropic": "^0.18.0"
+  }
+}
