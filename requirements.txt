@@ -1,0 +1,2 @@
+# BlueEagle AI Gateway Python Examples
+openai>=1.0.0

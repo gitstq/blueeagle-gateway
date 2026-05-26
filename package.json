@@ -1,0 +1,27 @@
+{
+  "name": "blueeagle-gateway",
+  "version": "1.0.0",
+  "description": "🦅 BlueEagle AI Gateway - 统一API网关 | 0.09x超低价格 | 1:1充值比例 | 原生官方号池",
+  "keywords": [
+    "ai-gateway",
+    "openai-api",
+    "claude-api",
+    "gemini-api",
+    "api-gateway",
+    "chatgpt",
+    "gpt-4o",
+    "artificial-intelligence"
+  ],
+  "homepage": "https://ahg.codes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blueeagle/blueeagle-gateway"
+  },
+  "scripts": {
+    "example": "node examples/node_example.js",
+    "test": "node -e \"console.log('请设置 BLUEEAGLE_API_KEY 环境变量后运行 npm run example')\""
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
